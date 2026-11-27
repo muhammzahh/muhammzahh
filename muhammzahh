@@ -1,21 +1,50 @@
-<h1 align="center">Halo, saya Muhammad Zahh 👋</h1>
-<p align="center">Software Developer | Suka belajar hal baru</p>
+<img src="banner.png" width="100%" alt="banner" />
+
+<h1 align="center">Hi 👋, Saya Muhammad Zahh</h1>
+
+<p align="center"><b>Software Developer</b></p>
+<p align="center"><code>Tagline kamu di sini</code></p>
+<p align="center">Building reliable systems with clean architecture and scalable solutions.</p>
+
+## 🚀 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+Halo, saya **Zahh**. Tulis perkenalan singkat tentang dirimu di sini.
+
+Saat ini saya sedang belajar **Teknologi A**, **Teknologi B**, dan **Teknologi C**.
+
+Tujuan saya: menulis kode yang bersih dan membangun software yang bermanfaat.
+
+</td>
+<td width="40%" align="center">
+<img src="foto.png" width="100%" />
+</td>
+</tr>
+</table>
+
+## 🤝 Connect
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,github,mysql" />
+  <a href="https://github.com/muhammzahh"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://linkedin.com/in/USERNAME-KAMU"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:EMAIL-KAMU"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
-## 🚀 Tentang Saya
-- 💻 Sedang mengerjakan: ...
-- 📚 Sedang belajar: ...
-- 🌱 Tertarik pada: ...
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,mysql,docker,git,html,css,vscode&perline=6" />
+</p>
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammzahh&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammzahh&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammzahh&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📫 Kontak
-- LinkedIn: [nama kamu](https://linkedin.com/in/...)
-- Email: email@kamu.com
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammzahh&theme=tokyo-night&hide_border=true" width="100%" />
