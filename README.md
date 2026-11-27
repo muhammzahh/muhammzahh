@@ -14,16 +14,22 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<p align="center">
-  🌐 <b>Frontend</b> &nbsp;—&nbsp; React, Next.js, TypeScript, Tailwind CSS, HTML, CSS<br/>
-  ⚙️ <b>Backend</b> &nbsp;—&nbsp; Node.js, NestJS, Python, PostgreSQL, Supabase<br/>
-  📱 <b>Mobile</b> &nbsp;—&nbsp; Flutter, Dart, Android<br/>
-  🎨 <b>Design</b> &nbsp;—&nbsp; Figma to real, working interfaces
-</p>
-
-<p align="center">
-  <i>Always learning, one commit at a time.</i>
-</p>
+<table width="100%">
+  <tr>
+    <td width="60%" valign="middle">
+      <p>
+        Hi, I'm Hamzah 👋 a junior developer who loves building things for the web and mobile.
+      </p>
+      <p>
+        I work with <b>React</b>, <b>Next.js</b>, <b>NestJS</b>, and <b>Flutter</b>,<br/>
+        and I'm learning something new with every project I ship.
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="holo.png" width="260" alt="Hamzah" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
