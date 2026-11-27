@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hero.svg" width="100%" alt="Hey!, I am Hamzah - Web Developer" />
+  <img src="hero(1).svg" width="100%" alt="Hey!, I am Hamzah - Web Developer" />
 </p>
 
 <p align="center">
@@ -12,13 +12,13 @@
 
 <br/>
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <table width="100%">
   <tr>
     <td width="60%" valign="middle">
       <p>
-        Hi, I'm Hamzah 👋 a junior developer who loves building things for the web and mobile.
+        Hi, I'm Hamzah a junior developer who loves building things for the web and mobile.
       </p>
       <p>
         I work with <b>React</b>, <b>Next.js</b>, <b>NestJS</b>, and <b>Flutter</b>,<br/>
@@ -33,7 +33,7 @@
 
 <br/>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center"> Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,vscode,nodejs,nextjs,nestjs,github,flutter,html,css,dart,supabase,react,ts,postgres,py,tailwind&theme=dark&perline=8" alt="Tech stack" />
@@ -49,7 +49,7 @@
 
 <br/>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammzahh&show_icons=true&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=7aa2f7&text_color=c9d1d9&icon_color=7aa2f7&ring_color=7aa2f7" alt="GitHub stats" />
@@ -62,7 +62,7 @@
 
 <br/>
 
-<h2 align="center">🤝 Connect</h2>
+<h2 align="center"> Connect</h2>
 
 <p align="center">
   <a href="https://github.com/muhammzahh"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
