@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hero(1).svg" width="100%" alt="Hey!, I am Hamzah - Web Developer" />
+  <img src="hero%20(1).svg" width="100%" alt="Hey!, I am Hamzah - Web Developer" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 <br/>
 
-<h2 align="center"> Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,vscode,nodejs,nextjs,nestjs,github,flutter,html,css,dart,supabase,react,ts,postgres,py,tailwind&theme=dark&perline=8" alt="Tech stack" />
@@ -49,20 +49,7 @@
 
 <br/>
 
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammzahh&show_icons=true&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=7aa2f7&text_color=c9d1d9&icon_color=7aa2f7&ring_color=7aa2f7" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammzahh&layout=compact&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=7aa2f7&text_color=c9d1d9" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=muhammzahh&background=0d1117&border=30363d&stroke=30363d&ring=7aa2f7&fire=7aa2f7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=7aa2f7&sideLabels=8b949e&dates=8b949e" alt="GitHub streak" />
-</p>
-
-<br/>
-
-<h2 align="center"> Connect</h2>
+<h2 align="center">Connect</h2>
 
 <p align="center">
   <a href="https://github.com/muhammzahh"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
