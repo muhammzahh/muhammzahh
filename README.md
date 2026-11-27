@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="dino.svg" width="100%" alt="Hi, I'm Hamzah - Junior Web Developer" />
+  <img src="hero.svg" width="100%" alt="Hey!, I am Hamzah - Web Developer" />
 </p>
 
 <p align="center">
